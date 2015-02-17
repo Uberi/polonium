@@ -1,5 +1,3 @@
 node_modules/
-tmp/
 dist/
-buildTmp/
 .DS_Store
