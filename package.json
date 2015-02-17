@@ -33,7 +33,7 @@
     "title": "Polonium",
     "icon": "resources/icon.png",
     "show": true,
-    "toolbar": true,
+    "toolbar": false,
     "position": "center",
     "width": 1000,
     "height": 700,
