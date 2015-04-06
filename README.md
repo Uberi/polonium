@@ -33,6 +33,10 @@ Now build the project anytime by executing the following in the project root fol
 
 Output files can be found under the `dist` folder.
 
+To directly run the application from the source, just run the following in the project root folder:
+
+    nw
+
 License
 -------
 

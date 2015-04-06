@@ -26,7 +26,7 @@ request.get("https://raw.githubusercontent.com/Uberi/polonium/master/resources/i
 });
 
 var badge_count = function(count) {
-  console.log(count);
+  win.setBadgeLabel(count.toString());
 }
 
 var notify = function(title, message) {
